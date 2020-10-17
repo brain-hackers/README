@@ -1,0 +1,2 @@
+# README
+Brain Hackers について
