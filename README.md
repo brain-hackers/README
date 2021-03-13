@@ -9,7 +9,12 @@ Brain Hackers は、SHARP の電子辞書 "Brain" シリーズの改造や、ソ
 
 [このリポジトリの Wiki](https://github.com/brain-hackers/README/wiki) では Brain で動く Linux ディストリビューション Brainux の使い方や、手動ビルドの方法などを集約しています。
 
-議論や質問は基本的に [Brain Hackers の Discord サーバー](https://discord.gg/UD8qHhs)で受け付けています。ぜひご参加ください。
+
+### Brain Hackers に参加する
+
+[Brain Hackers の Discord サーバー](https://discord.gg/UD8qHhs)ではさかんにノウハウの共有や議論をしてハックの楽しみを分かち合っています。Wiki では網羅されていない細かい質問や提案も歓迎します。ぜひご参加ください。
+
+[公式 Twitter](https://twitter.com/brainhackerz) では Brainux の最新リリースをはじめとするコミュニティの最新情報を外部に発信しています。
 
 
 ### 管轄するリソース
