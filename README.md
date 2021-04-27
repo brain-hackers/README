@@ -25,3 +25,9 @@ Brain Hackers は、SHARP の電子辞書 "Brain" シリーズの改造や、ソ
  - [Discord](https://discord.gg/UD8qHhs)
  - [Scrapbox](https://scrapbox.io/brain-hackers/)
  - [Twitter](https://twitter.com/brainhackerz)
+
+
+### ロゴ
+
+[Brain Hackers および Brainux のロゴ](logo.png) は Creative Commons BY-SA 4.0 でライセンスされます。
+
