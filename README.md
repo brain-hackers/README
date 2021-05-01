@@ -31,3 +31,11 @@ Brain Hackers は、SHARP の電子辞書 "Brain" シリーズの改造や、ソ
 
 [Brain Hackers および Brainux のロゴ](logo.png) は Creative Commons BY-SA 4.0 でライセンスされます。
 
+
+### その他
+
+Brain Hackers の APT リポジトリは [packagecloud.io](https://packagecloud.io/) の協力により提供されています。
+
+The APT repository of Brain Hackers is hosted by [packagecloud.io](https://packagecloud.io/).
+
+<a href="https://packagecloud.io/"><img height="46" width="158" alt="Private NPM registry and Maven, RPM, DEB, PyPi and RubyGem Repository · packagecloud" src="https://packagecloud.io/images/packagecloud-badge.png" /></a>
