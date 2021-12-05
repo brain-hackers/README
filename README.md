@@ -7,7 +7,7 @@
 
 Brain Hackers は、SHARP の電子辞書 "Brain" シリーズの改造や、ソフトウェアの開発に興味がある人々のためのコミュニティです。
 
-[このリポジトリの Wiki](https://github.com/brain-hackers/README/wiki) では Brain で動く Linux ディストリビューション Brainux の使い方や、手動ビルドの方法などを集約しています。
+[Brain Hackers Wiki](https://wiki.brainux.org/) では Brain で動く Linux ディストリビューション Brainux の使い方や、手動ビルドの方法などを集約しています。
 
 
 ### Brain Hackers に参加する
