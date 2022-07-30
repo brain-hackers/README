@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="Brain Hackers logo" src="logo.png" width=300px>
+<img alt="Brain Hackers logo" src="/assets/logo.png" width=300px>
 <h1>Brain Hackers</h1>
 </div>
 
@@ -29,9 +29,9 @@ Brain Hackers は、SHARP の電子辞書 "Brain" シリーズの改造や、ソ
  - [wiki.brainux.org](https://wiki.brainux.org/)
 
 
-### ロゴ
+### アセット
 
-[Brain Hackers および Brainux のロゴ](logo.png) は Creative Commons BY-SA 4.0 でライセンスされます。
+Brain Hackers ロゴなどのアセットについては[こちら](assets.md) 。
 
 
 ### その他
